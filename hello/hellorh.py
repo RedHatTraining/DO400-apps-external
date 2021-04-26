@@ -1,1 +1,1 @@
-print("Hello Red Hat!")
+print("Hello sucker!")
